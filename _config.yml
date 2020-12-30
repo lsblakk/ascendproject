@@ -25,3 +25,7 @@ navigation:
   url: /volunteers/index.html
 #- title: Press
 #  url: /press/index.html
+
+google_analytics: UA-50822109-1
+show_downloads: true
+theme: jekyll-theme-architect
